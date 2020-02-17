@@ -1,5 +1,8 @@
-mod print;
+//mod print;
+mod strings;
 
 fn main() {
-    print::print("Hello friends !");
+//    print::print();
+
+    strings::run();
 }
